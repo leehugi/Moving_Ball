@@ -3,15 +3,15 @@ In this game I created a ball movement simulator.
 
 The user can adjust:
 
-•	Size of the ball.
+      •	Size of the ball.
 
-•	Velocity of the ball.
+      •	Velocity of the ball.
 
-•	Movement type.
+      •	Movement type.
 
-•	Background and ball color.
+      •	Background and ball color.
 
-•	Add or remove balls.
+      •	Add or remove balls.
 
-•	 Stop or start the motion.
+      •	 Stop or start the motion.
 
