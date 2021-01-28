@@ -15,3 +15,4 @@ The user can adjust:
 
       •	 Stop or start the motion.
 
+![alt text](https://github.com/leehugi/Moving_Ball/blob/main/image.png?raw=true)
